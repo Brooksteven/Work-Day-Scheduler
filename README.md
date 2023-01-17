@@ -1,5 +1,6 @@
 # Homework module 5 - Work Day Scheduler 
 ![Alt text](./Assets/Screen%20Shot%202023-01-17%20at%205.51.22%20PM.png)
+![Alt text](https://raw.githubusercontent.com/coding-boot-camp/crispy-octo-meme/main/Assets/05-third-party-apis-homework-demo.gif)
 
 # Summary
 - HTML and CSS and Javascript documents create a day planner with an eight-hour work day
